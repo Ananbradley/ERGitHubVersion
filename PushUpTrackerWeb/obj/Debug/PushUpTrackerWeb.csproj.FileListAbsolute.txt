@@ -1,0 +1,6 @@
+\\ecimain.ecipay.com\shares\home\abradley\documents\visual studio 2013\Projects\PushUpTrackerWeb\PushUpTrackerWeb\bin\PushUpTrackerWeb.dll.config
+\\ecimain.ecipay.com\shares\home\abradley\documents\visual studio 2013\Projects\PushUpTrackerWeb\PushUpTrackerWeb\bin\PushUpTrackerWeb.dll
+\\ecimain.ecipay.com\shares\home\abradley\documents\visual studio 2013\Projects\PushUpTrackerWeb\PushUpTrackerWeb\bin\PushUpTrackerWeb.pdb
+\\ecimain.ecipay.com\shares\home\abradley\documents\visual studio 2013\Projects\PushUpTrackerWeb\PushUpTrackerWeb\obj\Debug\PushUpTrackerWeb.dll
+\\ecimain.ecipay.com\shares\home\abradley\documents\visual studio 2013\Projects\PushUpTrackerWeb\PushUpTrackerWeb\obj\Debug\PushUpTrackerWeb.pdb
+\\ecimain.ecipay.com\shares\home\abradley\documents\visual studio 2013\Projects\PushUpTrackerWeb\PushUpTrackerWeb\obj\Debug\PushUpTrackerWeb.csprojResolveAssemblyReference.cache

@@ -1,0 +1,38 @@
+﻿body
+{
+
+    background-color: floralwhite;
+    margin: 100px auto;
+     max-width: 500px;
+     align-content:center;
+     color:navy;
+     font-family:Arial;
+     font-size: 16px;
+     font-weight:100;
+}
+h1
+ {
+    color: navy;
+    font-family:'Times New Roman';
+}
+.button
+{
+    background-color: #ccebff;
+    color: navy ;
+    border: 2px solid #ccebff;
+    border-radius: 4px;
+    padding: 2px 5px;
+    
+}
+.my_label
+{
+    min-height: 100px;
+    text-align: center;
+}
+.input{
+    border: 2px solid #ccebff;
+    border-radius: 4px;
+    padding: 2px 5px;
+    
+   
+}
